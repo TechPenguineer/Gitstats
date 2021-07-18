@@ -1,12 +1,12 @@
 ﻿using System;
-
+using Gitstats;
 namespace Gitstats
 {
     public class GitstatClient
     {
-        public class Users
-        {
-            
-        }
+            public static void GetUserJSON(String Username)
+            {
+            user.call(Username);
+            }
     }
 }

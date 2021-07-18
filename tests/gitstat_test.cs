@@ -9,7 +9,8 @@ namespace Gitstats.tests
     {
         public void getID()
         {
-               GitstatClient.Users. 
+            GitstatClient.GetUserJSON("TechPenguineer");
         }
+       
     }
 }

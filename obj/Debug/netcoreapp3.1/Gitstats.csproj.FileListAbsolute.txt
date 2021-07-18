@@ -1,0 +1,9 @@
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\bin\Debug\netcoreapp3.1\Gitstats.deps.json
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\bin\Debug\netcoreapp3.1\Gitstats.dll
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\bin\Debug\netcoreapp3.1\Gitstats.pdb
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.csproj.AssemblyReference.cache
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.AssemblyInfoInputs.cache
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.AssemblyInfo.cs
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.csproj.CoreCompileInputs.cache
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.dll
+D:\Desktop\gitstats\Gitstats\Gitstats\Gitstats\obj\Debug\netcoreapp3.1\Gitstats.pdb

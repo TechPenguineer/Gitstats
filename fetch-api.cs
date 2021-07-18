@@ -5,12 +5,9 @@ using System.Web;
 using System.Linq;
 using Gitstats;
 
-namespace Gitstatsc
+namespace Gitstats
 {   
 
-    
-    class fetch_api
-    {
         public class user
         {
             public static user call(string Username)
@@ -22,5 +19,4 @@ namespace Gitstatsc
                 return response;
             }
         }
-    }
 }
