@@ -7,7 +7,3 @@ A C# wrapper around the githubs API
 using Gitstats;
 ```
 
-**Creating the client**
-```csharp
-        GitstatClient gitstatClient = new GitstatClient();
-```
