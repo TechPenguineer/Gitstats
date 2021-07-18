@@ -1,2 +1,13 @@
 # Gitstats
- Easily get data from githubs api using c#
+A C# wrapper around the githubs API
+
+# Usage
+**Importing**
+```csharp
+using Gitstats;
+```
+
+**Creating the client**
+```csharp
+        GitstatClient gitstatClient = new GitstatClient();
+```

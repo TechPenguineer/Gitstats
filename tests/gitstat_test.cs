@@ -7,6 +7,9 @@ namespace Gitstats.tests
 {
     class gitstat_test
     {
-        
+        public void getID()
+        {
+                GitstatClient.user.     
+        }
     }
 }
