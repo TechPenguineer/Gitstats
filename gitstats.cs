@@ -2,7 +2,8 @@
 
 namespace Gitstats
 {
-    public class Class1
+    public class gitstat
     {
+
     }
 }
