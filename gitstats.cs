@@ -2,7 +2,7 @@
 
 namespace Gitstats
 {
-    public class gitstat
+    public class GitstatClient
     {
 
     }
