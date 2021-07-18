@@ -9,7 +9,7 @@ namespace Gitstats.tests
     {
         public void getID()
         {
-                GitstatClient.user.     
+               GitstatClient.Users. 
         }
     }
 }

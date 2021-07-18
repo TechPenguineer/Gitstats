@@ -1,19 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Web;
+using System.Linq;
+using Gitstats;
 
-namespace Gitstats
-{
+namespace Gitstatsc
+{   
 
+    
     class fetch_api
     {
-        public void get_api()
+        public class user
         {
-
-        }
-        public void GetUserId(string Username)
-        {
-            string apiRefference = $"https://api.github.com/users/{Username}";
+            public static user call(string Username)
+            {
+                string url = "https://api.github.com/";
+                string urlParamaters = $"users/{Username}";
+                var response = CallApi.RunAsync<user>(url, urlParamaters).GetAwaiter().GetResult();
+                Console.WriteLine(response);
+                return response;
+            }
         }
     }
 }
